@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merontec
+- 👋 Hi, I’m @meritec
 - 👀 I’m interested in ai engineer 
 - 🌱 I’m currently learning ... computer science 
 - 💞️ I’m looking to collaborate on to make AI cyber security analysis 
